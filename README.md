@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Agustín Grassi, a self-motivated designer enthusiast and full stack web developer.
+I'm Agustin Grassi, a self-motivated designer enthusiast and full stack web developer.
 
-- 🔭 I’m currently working on a collectors e-commerce
-- 🌱 I’m currently learning Next.js
-- 💬 Ask me about javascript, React, Redux, Express, Sequelize, Figma
-- 📫 How to reach me: sugus.grassi@gmail.com
-- 📝 [Resume](https://sugusgrassi.s3-sa-east-1.amazonaws.com/cv/cv-ag-webdev.pdf)
+- 🔭  I’m currently working on a collectors e-commerce
+- 🌱  I’m currently learning Next.js
+- 💬  Ask me about Javascript, React, Redux, Express, Sequelize, Figma
+- 📫  How to reach me: sugus.grassi@gmail.com
+- 📝  [Resume](https://sugusgrassi.s3-sa-east-1.amazonaws.com/cv/cv-ag-webdev.pdf)
 
 
 ### 🛠️ Languages and Tools:
