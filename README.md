@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Agustin Grassi, a self-motivated designer enthusiast and full stack web developer.
+I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 
 - 🔭  I’m currently working on a collectors e-commerce
 - 🌱  I’m currently learning Next.js
