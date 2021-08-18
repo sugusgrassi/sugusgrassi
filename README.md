@@ -2,8 +2,8 @@
 
 I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 
-- 🔭  I’m currently working on a collectors e-commerce
-- 🌱  I’m currently learning Next.js
+- 🔭  I’m currently working on a collectors e-commerce and a convention bureaux website
+- 🌱  I’m currently learning Next.js and MongoDB
 - 💬  Ask me about Javascript, React, Redux, Express, Sequelize, Figma, design patterns
 - 📫  How to reach me: sugus.grassi@gmail.com
 - 📝  [Resume](https://sugusgrassi.s3-sa-east-1.amazonaws.com/cv/cv-ag-webdev.pdf)
