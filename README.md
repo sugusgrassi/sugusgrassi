@@ -2,7 +2,7 @@
 
 I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 
-- 🔭  I’m currently working on a collectors e-commerce, a convention bureaux website and a React Hooks Manual
+- 🔭  I’m currently working on a convention bureaux website and a React Hooks Manual
 - 🌱  I’m currently learning Next.js and MongoDB
 - 🔮  I want to learn React Native and Typescript
 - 💬  Ask me about Javascript, React, Redux, Node, Express, Figma
