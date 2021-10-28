@@ -3,7 +3,7 @@
 I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 
 - 🔭  I’m currently working on a convention bureaux website and a React Hooks Manual
-- 🌱  I’m currently learning Next.js and MongoDB
+- 🌱  I’m currently learning material-ui and firefase
 - 🔮  I want to learn React Native and Typescript
 - 💬  Ask me about Javascript, React, Redux, Node, Express, Figma
 - 📫  How to reach me: sugus.grassi@gmail.com
@@ -32,6 +32,6 @@ I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 
-Gitlab : [agustin_grassi](https://gitlab.com/sugus.grassi)
+Gitlab : [agustin_grassi](https://gitlab.com/sugus.grassi) | Since october 2021 I'm working on some projects with Gitlab
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Agustin_Grassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/agustin-grassi/)
