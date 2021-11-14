@@ -34,6 +34,6 @@ I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 
 Gitlab : [agustin_grassi](https://gitlab.com/sugus.grassi)
 
-This is my personal Github account and since november 2021 I'm using another account for a company.
+This is my personal Github account and, since november 2021, I'm working at Mercado Libre using another account.
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Agustin_Grassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/agustin-grassi/)
