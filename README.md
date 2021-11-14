@@ -32,6 +32,8 @@ I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 
-Gitlab : [agustin_grassi](https://gitlab.com/sugus.grassi) | Since october 2021 I'm working on some projects with Gitlab
+Gitlab : [agustin_grassi](https://gitlab.com/sugus.grassi)
+
+This is my personal Github account and since november 2021 I'm using another account for a company.
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Agustin_Grassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/agustin-grassi/)
