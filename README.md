@@ -7,9 +7,6 @@ I'm Agustin Grassi, a full stack web developer and a self-motivated designer.
 - 📫  How to reach me: sugus.grassi@gmail.com
 - 📝  [Resume](https://sugusgrassi.s3-sa-east-1.amazonaws.com/cv/cv-ag-webdev.pdf)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugusgrassi&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
